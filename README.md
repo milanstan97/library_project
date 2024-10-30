@@ -17,6 +17,8 @@ Navigate to the development directory and run each notebook in the following ord
 3.  `03_eda.ipynb`
 4.  `04_models.ipynb`
 
+If you want to examine notebook on GitHub and Plotly charts are not displayed, please use [https://nbviewer.org/](https://nbviewer.org/) to render the Jupyter notebook and display its original view.
+
 If you want to perform hyperparameter tuning with MLflow, run the following commands:
 
 ```shell
