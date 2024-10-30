@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+venv/
+catboost_info/
+mlflow_artifacts/
+mlruns/
+*.csv
